@@ -13,8 +13,8 @@ To get started, ensure you have Python installed and then follow these steps:
 Install the required libraries:
 
 bash
-**Copy code
-**
+Copy code
+
 ```
 pip install flask
 pip install opencv-python
