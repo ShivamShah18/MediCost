@@ -1,5 +1,5 @@
-**MediCost: Surgery Cost Analysis Tool
-**
+****MediCost: Surgery Cost Analysis Tool
+****
 
 MediCost is a program that helps users analyze the cost of their surgeries. Users can either input the details of their surgery manually or upload an invoice file. The software processes the provided data and compares the cost of the procedure in the specified location (state). It also generates relevant tables and graphs for better visualization and understanding.
 
